@@ -51,6 +51,7 @@
 - [Threads in Node 10.5.0: a practical intro  ](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)[Node.js Child Processes](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a)
 - [Writing Native Node.js Modules  ](https://blog.risingstack.com/writing-native-node-js-modules/)
 - [N-API and getting started with writing C addons for Node.js](https://hackernoon.com/n-api-and-getting-started-with-writing-c-addons-for-node-js-cf061b3eae75)
+- [About node.js async_hooks](https://itnext.io/a-pragmatic-overview-of-async-hooks-api-in-node-js-e514b31460e9)
 
 ## NodeJS + X
 
